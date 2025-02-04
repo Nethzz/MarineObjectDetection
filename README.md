@@ -1,4 +1,9 @@
 Object Detection Using Mask R-CNN
+
+
+
+
+
 📌 Overview
 This project implements Mask R-CNN for object detection and instance segmentation. The model detects objects in images and generates both bounding boxes and pixel-level masks. The application focuses on maritime safety and rescue by accurately identifying objects in the maritime domain.
 
